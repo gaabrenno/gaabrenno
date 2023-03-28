@@ -23,3 +23,8 @@ Até o momento a maioria das tecnologias que utilizo estou aprendendo na faculda
 
 Fique a vontade!!! Seu comentario e feedback são importantes para o meu crescimento! ✌️😉
 
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
