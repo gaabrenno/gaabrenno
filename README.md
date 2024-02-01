@@ -1,4 +1,4 @@
-### Olá!! Sou o Gabriel Brenno, e é um prazer ter você por aqui!!!  <img align="center" alt="Baby_Yoda" src="https://i.pinimg.com/originals/0e/7d/8b/0e7d8b5e310b8ecd27a0d2fc64afc505.gif" width="10%"/>
+### Olá!! Sou o Gabriel Brenno, e é um prazer ter você por aqui!!!
 
 
 [![Ig](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
