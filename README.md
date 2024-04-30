@@ -21,6 +21,6 @@
 
 Até o momento a maioria das tecnologias que utilizo estou aprendendo na faculdade, menos Dart e Flutter, que estou aprendendo por gosto e para projetos pessoais!
 
-Fique a vontade!!! Seu comentario e feedback são importantes para o meu crescimento! ✌️😉
+Fique a vontade!!! Seu comentario e feedback são importantes para o meu crescimento!
 
 
