@@ -8,7 +8,7 @@
 ![Gabriel Brenno GitHub stats](https://github-readme-stats.vercel.app/api?username=gaabrenno&show_icons=true&theme=radical)
 
 
-## Minhas tecnologias preferidas
+## Minhas tecnologias
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -21,9 +21,5 @@
   
  
 </div>
-
-Até o momento a maioria das tecnologias que utilizo estou aprendendo na faculdade, menos Dart e Flutter, que estou aprendendo por gosto e para projetos pessoais!
-
-Fique a vontade!!! Seu comentario e feedback são importantes para o meu crescimento!
 
 
