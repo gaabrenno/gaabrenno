@@ -3,7 +3,6 @@ Hello! I'm Gabriel Brenno, and it's a pleasure to have you here!
 
 ![Gabriel Brenno GitHub stats](https://github-readme-stats.vercel.app/api?username=gaabrenno&show_icons=true&theme=radical)
 
------------
 
 <div align="center" style="display: inline_block"><br/>
 <h2>My hard skills</h2>
