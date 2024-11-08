@@ -1,9 +1,5 @@
-<div align="center" style="display: inline_block"><br/>
-  <hi>Hello! I'm Gabriel Brenno, and it's a pleasure to have you here!</h1>
-</div>
-<div align="center" style="display: inline_block"><br/>
-  ![Gabriel Brenno GitHub stats](https://github-readme-stats.vercel.app/api?username=gaabrenno&show_icons=true&theme=radical)
-</div>
+ <h1>Hello! I'm Gabriel Brenno, and it's a pleasure to have you here!</h1>
+![Gabriel Brenno GitHub stats](https://github-readme-stats.vercel.app/api?username=gaabrenno&show_icons=true&theme=radical)
 
 <div align="center" style="display: inline_block"><br/>
   <h2>My hard skills</h2>
