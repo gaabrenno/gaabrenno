@@ -6,11 +6,10 @@ Hello! I'm Gabriel Brenno, and it's a pleasure to have you here!
 -----------
 
 <div align="center" style="display: inline_block"><br/>
-## My hard skills
+<h2>My hard skills</h2>
 </div>
 
 <div align="center" style="display: inline_block"><br/>
-## My hard skills
   
   <img align="center" alt="py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
