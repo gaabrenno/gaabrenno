@@ -1,9 +1,6 @@
 ### Olá! Sou o Gabriel Brenno, e é um prazer ter você por aqui!
 
 
-[![Ig](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/gaabrenno/)
-
 
 ![Gabriel Brenno GitHub stats](https://github-readme-stats.vercel.app/api?username=gaabrenno&show_icons=true&theme=radical)
 
