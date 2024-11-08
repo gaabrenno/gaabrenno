@@ -3,10 +3,13 @@ Hello! I'm Gabriel Brenno, and it's a pleasure to have you here!
 
 ![Gabriel Brenno GitHub stats](https://github-readme-stats.vercel.app/api?username=gaabrenno&show_icons=true&theme=radical)
 
-
+-----------
 
 <div align="center" style="display: inline_block"><br/>
------------
+## My hard skills
+</div>
+
+<div align="center" style="display: inline_block"><br/>
 ## My hard skills
   
   <img align="center" alt="py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
